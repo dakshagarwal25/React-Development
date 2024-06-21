@@ -1,0 +1,53 @@
+.main {
+    margin-top: 100px;
+    background-color: #00AEEF;
+    text-align: center;
+    padding: 50px 20px;
+    color: white;
+  }
+  .dev{
+    color: #043045;
+  }
+  .aid{
+    color: #FFC107;
+  }
+  .title {
+    font-size: 6em;
+    margin: 0;
+  }
+  
+  .subtitle {
+    font-size: 1.8em;
+    margin: 20px 0;
+  }
+  
+  .buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 45px;
+    border: none;
+  }
+  .demo-button {
+    background-color: #FFC107;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: 600;
+  }
+  
+  .download-button {
+    background-color: #043045;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: 600;
+  }
+  
